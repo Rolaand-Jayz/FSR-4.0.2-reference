@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+out/
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled output (when building from source)
+*.exe
+*.pdb
